@@ -10,3 +10,11 @@ test!
 Creating a new branch is quick & simple.
 Creating new branch is quick And simple.
 更多有用的分支信息!
+java demo
+----------------------------------------------
+public class Hello{
+  public static void main(String[] args){
+    System.out.println("Hello Java!");
+  }
+}
+----------------------------------------------
