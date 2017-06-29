@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple.
 my test!
 ‘Ÿ¥Œ≤‚ ‘!
 test!
+Creating a new branch is quick & simple.
