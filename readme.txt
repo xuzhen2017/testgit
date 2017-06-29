@@ -9,3 +9,4 @@ my test!
 test!
 Creating a new branch is quick & simple.
 Creating new branch is quick And simple.
+更多有用的分支信息!
