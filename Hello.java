@@ -1,5 +1,6 @@
 public class Hello{
   public static void main(String[] args){
     System.out.println("你说的好像不对呀!");
+    System.out.println("哈哈!");
   }
 }
